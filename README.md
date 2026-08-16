@@ -63,7 +63,7 @@ To answer these, Aditi knew she needed a segmentation and research strategy.
 
 4. Loyalty Tier Program (Pilot)
 
-<img width="605" height="250" alt="loyalty tier program" src="https://github.com/user-attachments/assets/dbb1175c-0b9d-4af4-a90e-c289dd6d3b46" />
+<img width="700" height="250" alt="loyalty tier program" src="https://github.com/user-attachments/assets/dbb1175c-0b9d-4af4-a90e-c289dd6d3b46" />
 
 5. Survey Results To complement behavioral and transactional data, Peppo launched a structured user survey in Q1 2024 targeting 5,000 recent users (both retained and churned). The objective was to uncover motivational drivers and friction points in the user experience. The survey was distributed via in-app notifications and follow-up email campaigns.
 
