@@ -225,6 +225,4 @@ a. Yes
 
 b. No
 
-Data Set
-
-**Note: Please refer folder Data**
+**Data Set** - **Note: Please refer folder Data**
