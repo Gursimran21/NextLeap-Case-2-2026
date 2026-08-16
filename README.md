@@ -18,13 +18,13 @@ The CEO gave Aditi a clear mandate: "Improve retention and LTV. Identify the hig
 
 Peppo had three key business challenges:
 
-1. High Drop-Offs After First Order
+**1. High Drop-Offs After First Order**
     - 65% of users never returned after their first order.
 
-2. Expensive User Acquisition
+**2. Expensive User Acquisition**
     - CAC (Customer Acquisition Cost) from paid channels had doubled in the last 3 quarters.
 
-3. Low Lifetime Value (LTV)
+**3. Low Lifetime Value (LTV)**
     - Most users made 1–2 transactions. Very few became loyal repeat customers.
 
 Aditi needed to answer three questions:
@@ -39,7 +39,7 @@ To answer these, Aditi knew she needed a segmentation and research strategy.
 
 **III. Data Snapshot: What Aditi Knows**
 
-1. Demographics & Device A dataset of 1,000 users is available with attributes such as city, age, gender, device type, platform (app/web), and first access date. The user base is predominantly:
+**1. Demographics & Device** - A dataset of 1,000 users is available with attributes such as city, age, gender, device type, platform (app/web), and first access date. The user base is predominantly:
 
 - Android users (80%)
 
@@ -47,11 +47,11 @@ To answer these, Aditi knew she needed a segmentation and research strategy.
 
 - Aged 20–44
 
-2. Acquisition Sources
+**2. Acquisition Sources** -
 
 <img width="1000" height="250" alt="acquistion-sources" src="https://github.com/user-attachments/assets/b116034a-99a2-42f6-9791-8ec79e3a3565" />
 
-3. Behavioral Insights The expanded behavioral dataset includes:
+**3. Behavioral Insights The expanded Behavioral Dataset includes:**
 
 - Last active date
 
@@ -61,11 +61,11 @@ To answer these, Aditi knew she needed a segmentation and research strategy.
 
 - Feature usage (e.g. video watched, recipe saved)
 
-4. Loyalty Tier Program (Pilot)
+**4. Loyalty Tier Program (Pilot)** -
 
 <img width="700" height="250" alt="loyalty tier program" src="https://github.com/user-attachments/assets/dbb1175c-0b9d-4af4-a90e-c289dd6d3b46" />
 
-5. Survey Results To complement behavioral and transactional data, Peppo launched a structured user survey in Q1 2024 targeting 5,000 recent users (both retained and churned). The objective was to uncover motivational drivers and friction points in the user experience. The survey was distributed via in-app notifications and follow-up email campaigns.
+**5. Survey Results** - To complement behavioral and transactional data, Peppo launched a structured user survey in Q1 2024 targeting 5,000 recent users (both retained and churned). The objective was to uncover motivational drivers and friction points in the user experience. The survey was distributed via in-app notifications and follow-up email campaigns.
 
 Top-line findings:
 
@@ -105,7 +105,7 @@ Aditi (PM):
 
 As Aditi, you must:
 
-1. Build a Segmentation Model
+**1. Build a Segmentation Model**
 
 Choose and apply relevant segmentation axes:
 
@@ -123,7 +123,7 @@ Choose and apply relevant segmentation axes:
 
 Think About: Which of these segmentation models will give you actionable insights? Which ones are easy to implement? Which ones need enrichment via user research?
 
-2. Design a User Research Plan
+**2. Design a User Research Plan**
 
 Plan a mix of:
 
@@ -133,7 +133,7 @@ Plan a mix of:
 
 Think About: What questions would you ask in a user interview? Who should you interview (which segments)? What hypotheses are you trying to validate?
 
-3. Interpret Insights
+**3. Interpret Insights**
 
 Using the data, answer:
 
@@ -143,7 +143,7 @@ Using the data, answer:
 
 - What might be the unmet needs?
 
-4. Recommend Actions
+**4. Recommend Actions**
 
 Based on your segmentation and research plan:
 
@@ -159,9 +159,9 @@ Based on your segmentation and research plan:
 
 - What experiments could be run to test price sensitivity or variety?
 
-Appendix: Survey Questionnaire
+**Appendix: Survey Questionnaire
 
-Peppo User Survey (2024 Edition)
+Peppo User Survey (2024 Edition)**
 
 1. How often do you cook meals at home in a typical week?
 
