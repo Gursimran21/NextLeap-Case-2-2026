@@ -159,70 +159,70 @@ Based on your segmentation and research plan:
 
 - What experiments could be run to test price sensitivity or variety?
 
-**Appendix: Survey Questionnaire
+**Appendix: Survey Questionnaire**
 
-Peppo User Survey (2024 Edition)**
+**Peppo User Survey (2024 Edition)**
 
 1. How often do you cook meals at home in a typical week?
 
-a. 0 times
+   a. 0 times
 
-b. 1–2 times
+   b. 1–2 times
 
-c. 3–4 times
+   c. 3–4 times
 
-d. 5+ times
+   d. 5+ times
 
 2. What motivated you to try Peppo?
 
-a. Save time cooking
+   a. Save time cooking
 
-b. Try something new
+   b. Try something new
 
-c. Learn to cook better
+   c. Learn to cook better
 
-d. Inspired by video content
+   d. Inspired by video content
 
-e. Peer recommendation
+   e. Peer recommendation
 
 3. What prevented you from reordering after your first experience?
 
-a. Limited recipe options
+   a. Limited recipe options
 
-b. Price too high
+   b. Price too high
 
-c. Complicated cooking steps
+   c. Complicated cooking steps
 
-d. Delivery issues
+   d. Delivery issues
 
-e. Other (please specify)
+   e. Other (please specify)
 
 4. How satisfied were you with the overall product experience?
 
-a. Very satisfied
+   a. Very satisfied
 
-b. Somewhat satisfied
+   b. Somewhat satisfied
 
-c. Neutral
+   c. Neutral
 
-d. Somewhat dissatisfied
+   d. Somewhat dissatisfied
 
-e. Very dissatisfied
+   e. Very dissatisfied
 
 5. Which of the following features did you use?
 
-a. Step-by-step video walkthrough
+   a. Step-by-step video walkthrough
 
-b. Saved a recipe
+   b. Saved a recipe
 
-c. Shared your experience with others
+   c. Shared your experience with others
 
-d. Redeemed an offer/coupon
+   d. Redeemed an offer/coupon
 
 6. Would you recommend Peppo to a friend or colleague?
 
-a. Yes
+   a. Yes
 
-b. No
+   b. No
 
 **Data Set** - **Please refer folder Data**
