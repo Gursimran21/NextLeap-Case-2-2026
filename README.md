@@ -37,7 +37,9 @@ Aditi needed to answer three questions:
 
 To answer these, Aditi knew she needed a segmentation and research strategy.
 
-**III. Data Snapshot: What Aditi Knows**
+**III. Data Snapshot:** 
+
+**What Aditi Knows**
 
 **1. Demographics & Device** - A dataset of 1,000 users is available with attributes such as city, age, gender, device type, platform (app/web), and first access date. The user base is predominantly:
 
