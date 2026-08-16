@@ -2,4 +2,4 @@
 
 ## Case 2 : Cracking Growth at Peppo: Segmenting for Scale
 
-**Go to** [**README**](NextLeap-Case-2-2026/README.md)
+**Go to** [**README**](../README.md)
