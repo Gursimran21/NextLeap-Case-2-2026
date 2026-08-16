@@ -225,4 +225,4 @@ a. Yes
 
 b. No
 
-**Data Set** - **Note: Please refer folder Data**
+**Data Set** - **Please refer folder Data**
