@@ -83,7 +83,7 @@ Top-line findings:
 
 The results helped Aditi identify early hypotheses about feature gaps (e.g., limited recipe inventory) and pricing sensitivity.
 
-See Appendix for full list of survey questions.
+**See Appendix for full list of survey questions.**
 
 **IV. Internal Perspectives**
 
