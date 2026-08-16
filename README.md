@@ -85,19 +85,19 @@ See Appendix for full list of survey questions.
 
 **IV. Internal Perspectives**
 
-CEO:
+**CEO:**
 
 "We need to find our sticky users. It makes no sense to spend on everyone. Let’s focus our roadmap on the most valuable cohort."
 
-Growth Lead:
+**Growth Lead:**
 
 "Instagram and Google Ads are expensive. Maybe discounting will help in early retention."
 
-Head of Ops:
+**Head of Ops:**
 
 "Our logistics are better suited for family-size kits. Single-serve orders eat into margins."
 
-Aditi (PM):
+**Aditi (PM):**
 
 "We’re building too broadly. We need to define our user personas, understand motivations, and validate with proper research."
 
