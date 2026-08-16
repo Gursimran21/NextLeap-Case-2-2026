@@ -19,13 +19,13 @@ The CEO gave Aditi a clear mandate: "Improve retention and LTV. Identify the hig
 Peppo had three key business challenges:
 
 **1. High Drop-Offs After First Order**
-    - 65% of users never returned after their first order.
+     - 65% of users never returned after their first order.
 
 **2. Expensive User Acquisition**
-    - CAC (Customer Acquisition Cost) from paid channels had doubled in the last 3 quarters.
+     - CAC (Customer Acquisition Cost) from paid channels had doubled in the last 3 quarters.
 
 **3. Low Lifetime Value (LTV)**
-    - Most users made 1–2 transactions. Very few became loyal repeat customers.
+     - Most users made 1–2 transactions. Very few became loyal repeat customers.
 
 Aditi needed to answer three questions:
 
