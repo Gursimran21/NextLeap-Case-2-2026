@@ -72,3 +72,25 @@ To generate actionable insights, Peppo’s user base should be categorized using
 - **Engagement Trait:** Users who actively engage with the core product loop—specifically those who **save recipes** and utilize **step-by-step video guides**—demonstrate higher order velocity and repeat purchasing behavior.
   
 - **Demographic & Platform Profile:** Urban professionals aged **26–44** living in Tier-1 cities (such as Bangalore, Pune, and Chennai) accessing via the **Android App**.
+
+**2. Why Do They Retain Better Than Others?**
+
+- **Organic Intent over Discount Chasing:** Referrals and SEO users join with pre-existing intent and trust (e.g., peer recommendation or searching for healthy dinner solutions), whereas Instagram Ad users join for temporary novelty (7% Week 4 retention).
+  
+- **Feature Habits & Habit Loops:** Saving recipes creates a bookmarking habit loop, making meal planning effortless and bringing users back repeatedly.
+  
+- **Cooking Confidence via Guided Content:** High-value users leverage the **video guides** to reduce cooking anxiety and meal prep friction, turning meal kits into a regular evening ritual rather than a one-off experiment.
+  
+- **Higher Purchasing Power:** Gold users spend **₹420 per order** compared to Bronze users' **₹250**, indicating they are less price-sensitive and value convenience and variety over deep discounts.
+
+**3. What Can We Do to Attract and Retain More Like Them?**
+
+- **Reallocate Marketing Budget:** Shift CAC spending away from low-intent paid social ads (Instagram Ads CAC is ₹420 with 7% Week 4 retention) toward high-intent channels like **SEO** (₹90 CAC) and **Referral programs** (₹0 CAC).
+  
+- **Incentivize Peer Referrals:** Since Referrals yield the highest retention (20% W4 retention), introduce a double-sided referral incentive (e.g., "Give ₹150, Get ₹150 in meal kit credits") to drive organic word-of-mouth acquisition.
+  
+- **Onboarding Guided Activation:** Nudge new users during their first session to **watch a recipe video** and **save 3 recipes** to build immediate feature engagement and increase second-order likelihood.
+  
+- **Weekly Subscription & Rotating Menus:** Address the #1 churn driver ("Not enough variety" at 62%) by launching a **weekly rotating menu subscription** for Silver/Gold tiers to turn periodic buyers into habit-driven recurring subscribers.
+
+## Go back to [README](README.md)
