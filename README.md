@@ -227,9 +227,6 @@ Based on your segmentation and research plan:
 
    b. No
 
-**Data Set** - **Please refer folder Data**
+**Click on** **[Peppo's Solution](peppo.md)** **or** **Please refer folder Data.**
 
 ## **Go to [Data Folder](Data)**
-
-
-
