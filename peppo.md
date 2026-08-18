@@ -31,3 +31,44 @@ To generate actionable insights, Peppo’s user base should be categorized using
   - **Gold Users:** "What specific habit or routine does Peppo replace for you?" "What made you move from 1–2 orders to cooking regularly with Peppo?"
   - **Bronze/Churned Users:** "What was the main reason you didn't order a second time?" "Was it meal prep effort, portion size, price, or recipe options?"
   - **Hypotheses to Validate:** Users churn primarily due to recipe fatigue/limited variety (62%) and price sensitivity (31%), rather than cooking difficulty.
+
+### Interpretation of Insights
+
+- **Promising Cohorts:** Referrals and SEO channels yield the highest intent users, boasting 20% and 16% Week 4 retention rates respectively. Gold users (>6 orders) represent the highest LTV with ₹420 AOV and 54% retention.  
+
+- **Low-Intent Sources:** Instagram Ads bring highly price-sensitive, low-intent users (22% W1 retention, crashing to 7% by W4) with a massive ₹420 CAC.
+  
+- **Unmet Needs:** Survey results show 62% churn due to lack of recipe variety and 31% due to price. Users view Peppo as a novel experience (41%) rather than a daily utility habit.
+
+### Strategic Recommendations
+
+- **Prioritized Segments:**
+
+  1. Busy Urban Professionals (Singles/Couples) arriving via Referrals and SEO.
+  2. Silver-to-Gold Upsell Cohort (users with 3–6 orders) who demonstrate high willingness to engage.
+
+- **Growth & Product Experiments:**
+
+  - **Weekly Rotating Menu / Subscription:** Launch a "5-day dinner plan" subscription with 15+ rotating weekly recipes to solve menu fatigue (62% driver) and lock in retention.
+    
+  - **Referral Engine:** Shift paid acquisition budgets from Instagram to double down on Referral incentives (0 CAC, 20% W4 retention).
+
+- **What to Deprioritize:** Cut top-of-funnel Instagram ad spend by 50–70%. Stop offering deep front-end discounts to cold ad traffic, as it attracts low-retention one-off users.
+  
+- **Tier 2 Expansion Strategy:** Adapt menus to local palates and offer lower price-point meal kits, as Tier 2 cities are typically more price-sensitive and have higher home-cooking frequency.
+  
+- **Single-Serve Meal Kits:** Do NOT remove single-serve meal kits. Urban young professionals (80% Android, aged 20–44) are Peppo's core user base. Instead, optimize single-serve margins via regional dark kitchens or minimum batch prep.
+  
+- **Experiments for Pricing & Variety:** Run A/B tests on "Meal Subscriptions" (discounted pricing for 4-meal weekly passes) vs. ala-carte ordering to test price sensitivity and increase repeat order velocity.
+
+#### Aditi needed to answer three questions:
+
+**1. Who Are Peppo's Highest-Value Users?**
+
+- **Loyalty & Behavioral Profile:** Gold-tier users (>6 orders) represent Peppo's highest-value cohort, achieving a **54% retention rate** and an Average Order Value (AOV) of **₹420**.
+  
+- **Acquisition Source Profile:** Users acquired via **Referrals** and **Organic SEO** show the highest LTV and retention, generating Week 4 retention rates of **20%** and **16%** respectively.
+
+- **Engagement Trait:** Users who actively engage with the core product loop—specifically those who **save recipes** and utilize **step-by-step video guides**—demonstrate higher order velocity and repeat purchasing behavior.
+  
+- **Demographic & Platform Profile:** Urban professionals aged **26–44** living in Tier-1 cities (such as Bangalore, Pune, and Chennai) accessing via the **Android App**.
