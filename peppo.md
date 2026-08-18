@@ -61,7 +61,7 @@ To generate actionable insights, Peppo’s user base should be categorized using
   
 - **Experiments for Pricing & Variety:** Run A/B tests on "Meal Subscriptions" (discounted pricing for 4-meal weekly passes) vs. ala-carte ordering to test price sensitivity and increase repeat order velocity.
 
-### Aditi needed to answer three questions:
+### Based on the above user research Aditi needed to answer three questions:
 
 **1. Who Are Peppo's Highest-Value Users?**
 
