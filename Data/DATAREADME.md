@@ -2,4 +2,6 @@
 
 ## Case 2 : Cracking Growth at Peppo: Segmenting for Scale
 
+**Click on** **[Peppo's Solution](peppo.md)**
+
 ## **Go back to** [**README**](../README.md)
