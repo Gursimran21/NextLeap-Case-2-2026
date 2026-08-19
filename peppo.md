@@ -93,4 +93,4 @@ To generate actionable insights, Peppo’s user base should be categorized using
   
 - **Weekly Subscription & Rotating Menus:** Address the #1 churn driver ("Not enough variety" at 62%) by launching a **weekly rotating menu subscription** for Silver/Gold tiers to turn periodic buyers into habit-driven recurring subscribers.
 
-## Go back to [README](README.md)
+## Go back to [README](README.md) **or** **Go to [Data Folder](Data)** **or** **Go to [DATAREADME](DATAREADME.md)**
