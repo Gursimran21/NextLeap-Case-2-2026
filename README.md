@@ -227,6 +227,4 @@ Based on your segmentation and research plan:
 
    b. No
 
-**Click on** **[Peppo's Solution](peppo.md)** **or** **Please refer folder Data.**
-
-## **Go to [Data Folder](Data)**
+## **Go to [Data Folder](Data)** to refer Excel Sheet **or** **Go to [DATAREADME](Data/DATAREADME.md)** **or** **Click on** **[Peppo's Solution](peppo.md)**
